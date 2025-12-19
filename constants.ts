@@ -152,7 +152,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Microsoft",
     date: "Oct 2024",
     category: "Foundations",
-    imageUrl: "/images/ai-azure.png"
+    imageUrl: "https://drive.google.com/file/d/1hddX0_FAxEUbnNAa7d36_bFiBAfWQUQm/view?usp=sharing"
   },
 
   // Group 3: Responsible & Ethical AI
