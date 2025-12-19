@@ -9,7 +9,7 @@ export const PORTFOLIO_DATA = {
   email: "paledisebene@gmail.com",
   profileImage: "https://media.licdn.com/dms/image/v2/D4D03AQEOSuiLeq2Usw/profile-displayphoto-scale_200_200/B4DZpZQen3HsAY-/0/1762434085176?e=1767830400&v=beta&t=WVQuCHI67mQDN2FfSTQaj9nHdYQoI-w6B11sPaeu03E",
   // Document Paths - references /doc/ folder in public
-  cvPath: "/doc/tshegofatso-sebone-cv-2025.pdf",
+  cvPath: "https://drive.google.com/file/d/1VdvLCxTHAj3Jcqd1TZBlwXnLIbXC4ubr/view?usp=drive_link",
   certBundlePath: "/doc/certificates/all-certifications-bundle.pdf"
 };
 
