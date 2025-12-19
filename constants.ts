@@ -18,7 +18,7 @@ export const SKILLS: Skill[] = [
   { name: "TypeScript", level: 95, category: "Languages", icon: "/images/skills/typescript.svg" },
   { name: "Python", level: 90, category: "Languages", icon: "/images/skills/python.svg" },
   { name: "Java", level: 85, category: "Languages", icon: "/images/skills/java.svg" },
-  { name: "C#", level: 80, category: "Languages", icon: "/images/skills/csharp.svg" },
+  { name: "C#", level: 80, category: "Languages", icon: "https://drive.google.com/file/d/1yujJTg4Rd5VvdfYRLqzPHpIFax9znzU1/view?usp=sharing" },
   { name: "JavaScript", level: 95, category: "Languages", icon: "/images/skills/javascript.svg" },
   { name: "Kotlin", level: 75, category: "Languages", icon: "/images/skills/kotlin.svg" },
   { name: "PHP", level: 70, category: "Languages", icon: "/images/skills/php.svg" },
