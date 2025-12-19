@@ -24,12 +24,12 @@ export const SKILLS: Skill[] = [
   { name: "PHP", level: 70, category: "Languages", icon: "/images/skills/php.svg" },
 
   // Frontend
-  { name: "React", level: 95, category: "Frontend", icon: "/images/skills/react.svg" },
-  { name: "Vue.js", level: 80, category: "Frontend", icon: "/images/skills/vuejs.svg" },
-  { name: "HTML5", level: 100, category: "Frontend", icon: "/images/skills/html5.svg" },
-  { name: "CSS3", level: 95, category: "Frontend", icon: "/images/skills/css3.svg" },
-  { name: "Bootstrap", level: 85, category: "Frontend", icon: "/images/skills/bootstrap.svg" },
-  { name: "Vite", level: 90, category: "Frontend", icon: "/images/skills/vite.svg" },
+  { name: "React", level: 95, category: "Frontend", icon: "images/skills/react.svg" },
+  { name: "Vue.js", level: 80, category: "Frontend", icon: "images/skills/vuejs.svg" },
+  { name: "HTML5", level: 100, category: "Frontend", icon: "images/skills/html5.svg" },
+  { name: "CSS3", level: 95, category: "Frontend", icon: "images/skills/css3.svg" },
+  { name: "Bootstrap", level: 85, category: "Frontend", icon: "images/skills/bootstrap.svg" },
+  { name: "Vite", level: 90, category: "Frontend", icon: "images/skills/vite.svg" },
 
   // Backend & DB
   { name: "Node.js", level: 90, category: "Backend & DB", icon: "/images/skills/nodejs.svg" },
