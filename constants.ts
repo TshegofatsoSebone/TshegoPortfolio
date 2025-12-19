@@ -172,7 +172,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "IBM",
     date: "Oct 2024",
     category: "Development",
-    imageUrl: "https://drive.google.com/file/d/1h2plA3bcVN_qX_5mJjlbAcmVeCjdbRV9/view?usp=sharing"
+    imageUrl: "https://github.com/TshegofatsoSebone/TshegoPortfolio/blob/main/images/ai-chatbots.PNG"
   },
   {
     id: "python-dev-ai",
