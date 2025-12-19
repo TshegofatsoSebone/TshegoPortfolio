@@ -108,7 +108,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "DeepLearning.AI",
     date: "Oct 2024",
     category: "Generative AI",
-    imageUrl: "/images/gen-ai-llm.png",
+    imageUrl: "https://drive.google.com/file/d/1zXZwYRa1wczIKyE069ajjLRCzxLayc-o/view?usp=drive_link",
    
   },
   {
@@ -117,7 +117,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Google Cloud",
     date: "Oct 2024",
     category: "Generative AI",
-    imageUrl: "/images/intro-gen-ai.png",
+    imageUrl: "https://drive.google.com/file/d/16we2RwgmbSXcbO4ULJgq3sRMFqSJkrV6/view?usp=drive_link",
    
   },
 
@@ -128,7 +128,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Arizona State University",
     date: "Oct 2024",
     category: "Foundations",
-    imageUrl: "/images/ai-prompt-eng.png"
+    imageUrl: "https://drive.google.com/file/d/18K2s59nXMJw_J1dgDCnSXdACTKlTPBLa/view?usp=drive_link"
   },
   {
     id: "intro-ai-ibm",
@@ -136,7 +136,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "IBM",
     date: "Oct 2024",
     category: "Foundations",
-    imageUrl: "/images/intro-ai-ibm.png"
+    imageUrl: "https://drive.google.com/file/d/1KknWG9tJIkTwhVqaewXnVpjINHJJtsce/view?usp=drive_link"
   },
   {
     id: "ai-essentials-intel",
@@ -144,7 +144,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Intel",
     date: "Oct 2024",
     category: "Foundations",
-    imageUrl: "/images/ai-essentials-intel.png"
+    imageUrl: "https://drive.google.com/file/d/1KDqczzfuLxUwkShVpLLFu7pH6_rvdbFa/view?usp=drive_link"
   },
   {
     id: "ai-azure",
@@ -162,7 +162,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Johns Hopkins University",
     date: "Oct 2024",
     category: "Ethics",
-    imageUrl: "/images/trustworthy-ai.png"
+    imageUrl: "https://drive.google.com/file/d/1XE4KftzPq2SvOFK7bEX9MsfRAozVJPI-/view?usp=drive_link"
   },
 
   // Group 4: Development & Implementation
@@ -172,7 +172,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "IBM",
     date: "Oct 2024",
     category: "Development",
-    imageUrl: "/images/ai-chatbots.png"
+    imageUrl: "https://drive.google.com/file/d/1h2plA3bcVN_qX_5mJjlbAcmVeCjdbRV9/view?usp=drive_link"
   },
   {
     id: "python-dev-ai",
@@ -180,7 +180,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "IBM",
     date: "Oct 2024",
     category: "Development",
-    imageUrl: "/images/python-dev-ai.png"
+    imageUrl: "https://drive.google.com/file/d/1kAKpeyx1DaL68AN7kwYDv2t1qDjuKjMQ/view?usp=drive_link"
   }
 ];
 
